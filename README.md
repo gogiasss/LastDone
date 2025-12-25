@@ -23,8 +23,9 @@ The App uses standard Android system services and libraries (e.g., Jetpack Compo
 We may update our Privacy Policy from time to time. You are advised to review this page periodically for any changes.
 
 **6. Contact Us**
-If you have any questions about this Privacy Policy, please contact us at: [Your Email]
-
+If you have any questions about this Privacy Policy, please contact us at: 
+Developer Ruslan Valiev
+rvaliev.dev@gmail.com
 
 # Политика конфиденциальности LastDone
 
@@ -51,4 +52,6 @@ If you have any questions about this Privacy Policy, please contact us at: [Your
 Мы можем обновлять Политику конфиденциальности. Рекомендуем периодически проверять эту страницу на наличие изменений.
 
 **6. Контакты**
-Если у вас есть вопросы по Политике конфиденциальности, свяжитесь с нами: [Ваш Email]
+Если у вас есть вопросы по Политике конфиденциальности, свяжитесь с нами:
+Разработчик Ruslan Valiev
+rvaliev.dev@gmail.com
